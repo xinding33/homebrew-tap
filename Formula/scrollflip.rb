@@ -1,8 +1,8 @@
 class Scrollflip < Formula
   desc "Menu bar app that reverses mouse wheel scrolling but keeps the trackpad natural"
   homepage "https://github.com/xinding33/scrollflip"
-  url "https://github.com/xinding33/scrollflip/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "a5e2db178aee3259ac8f9d2c4fa69a2ecae007ccd4a2bc69044f1dc68ca3b565"
+  url "https://github.com/xinding33/scrollflip/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "e35062bb8100e4354f387b1a0e01000c626572a3a253943fa35b9bc05dbd4a9d"
   license "Apache-2.0"
 
   depends_on macos: :ventura
