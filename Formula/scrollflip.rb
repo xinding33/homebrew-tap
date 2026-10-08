@@ -1,8 +1,8 @@
 class Scrollflip < Formula
   desc "Menu bar app that reverses mouse wheel scrolling but keeps the trackpad natural"
   homepage "https://github.com/xinding33/scrollflip"
-  url "https://github.com/xinding33/scrollflip/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "b4dab1418da6db7a4260d6f030525603b9d0c1383435d7daa4ba226b80113dbd"
+  url "https://github.com/xinding33/scrollflip/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "a5e2db178aee3259ac8f9d2c4fa69a2ecae007ccd4a2bc69044f1dc68ca3b565"
   license "Apache-2.0"
 
   depends_on macos: :ventura
@@ -24,9 +24,8 @@ class Scrollflip < Formula
       its menu bar icon. Keep Natural scrolling on in System Settings; ScrollFlip
       reverses only the mouse wheel.
 
-      macOS asks for Accessibility permission again after each upgrade. Clear the
-      old entry, then choose Restart from ScrollFlip's menu:
-        tccutil reset Accessibility io.github.xinding33.scrollflip
+      After each upgrade, choose Restart from ScrollFlip's menu and grant
+      Accessibility access again when prompted.
 
       If you started 1.0.0 with `brew services`, stop that service:
         brew services stop scrollflip
