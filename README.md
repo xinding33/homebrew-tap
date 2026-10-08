@@ -9,3 +9,4 @@ brew install xinding33/tap/<name>
 | Formula | Description |
 | --- | --- |
 | [scrollflip](https://github.com/xinding33/scrollflip) | Menu bar app that reverses mouse wheel scrolling but keeps the trackpad natural |
+| [wink](https://github.com/xinding33/wink) | Menu bar app to disconnect and reconnect external displays without unplugging |
