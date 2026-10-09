@@ -12,6 +12,7 @@ brew install xinding33/tap/<name>
 
 | Cask | Description |
 | --- | --- |
+| [ripple](https://github.com/xinding33/ripple) | Menu bar app that wakes your Macs together for Universal Control |
 | [wink](https://github.com/xinding33/wink) | Menu bar app to disconnect and reconnect external displays without unplugging |
 
 ```sh
