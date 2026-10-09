@@ -1,6 +1,6 @@
 cask "backspin" do
-  version "1.3.0"
-  sha256 "33984d2f10d58ea899a78c3f566f9796d4a30c6e19dedc9f1d7667116d51a76d"
+  version "1.4.0"
+  sha256 "a02b9abb24fc3e98ba22a3cd636b8450935ea6161325476d0b2e6af85d97606b"
 
   url "https://github.com/xinding33/backspin/releases/download/v#{version}/Backspin-#{version}.zip"
   name "Backspin"
