@@ -1,8 +1,8 @@
 class Ripple < Formula
   desc "Menu bar app that wakes your Macs together for Universal Control"
   homepage "https://github.com/xinding33/ripple"
-  url "https://github.com/xinding33/ripple/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "2b2eeed7327536993613be4097f0b475258eb7bafb15d53379782d8c54580c7f"
+  url "https://github.com/xinding33/ripple/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "f3ec28f824e9b7e16455929c7e58c199b4ff499031c103e8b77e0b4bfee67cda"
   license "Apache-2.0"
 
   depends_on macos: :ventura
