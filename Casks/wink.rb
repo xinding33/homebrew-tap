@@ -1,6 +1,6 @@
 cask "wink" do
-  version "1.1.0"
-  sha256 "bc52342cd5866fb0950383f93a6525fcf2d6db8ad3bfb42bf1b30a6a93ee58ea"
+  version "1.2.0"
+  sha256 "89628e1df0fa44684bf54e9af85b205feff93291b6f336cc6ad5c5e05fc05d80"
 
   url "https://github.com/xinding33/wink/releases/download/v#{version}/Wink-#{version}.zip"
   name "Wink"
