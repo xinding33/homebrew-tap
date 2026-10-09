@@ -1,6 +1,6 @@
 cask "ripple" do
-  version "1.1.0"
-  sha256 "e1beb6174ee611ccb0f5251395e75d3da63f8c59d93c9ebc8ba8442f1ac660f0"
+  version "1.2.0"
+  sha256 "3017e521c1bc54d263ad6b6e1aad3e9a1fc7946b0fc5b7dbdfeccc3b0ab57149"
 
   url "https://github.com/xinding33/ripple/releases/download/v#{version}/Ripple-#{version}.zip"
   name "Ripple"
