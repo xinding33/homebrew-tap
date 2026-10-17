@@ -1,6 +1,6 @@
 cask "wow-session-recorder" do
-  version "0.3.0"
-  sha256 "b4b9b3652d94e3de9ba77f4507b7536345e41438a76feffe338ad8204c84cbf9"
+  version "0.4.0"
+  sha256 "8d9d83f87e668f80bf3393aac6f6c149c13d4e23bed781ade07db64abf76a279"
 
   url "https://github.com/xinding33/wow-session-recorder/releases/download/v#{version}/WoW-Session-Recorder-#{version}.dmg"
   name "WoW Session Recorder"
