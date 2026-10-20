@@ -1,6 +1,6 @@
 cask "ration" do
-  version "0.3.1"
-  sha256 "c9367dceee032f7b6e6f9efb936d074321b320281f9a0aaf29c12a7fd235f132"
+  version "0.3.2"
+  sha256 "8362db60cbc16c18475f85739248bf09a3f10912cba00376b43988014a256adb"
 
   url "https://github.com/xinding33/ration/releases/download/v#{version}/Ration-#{version}.zip"
   name "Ration"
