@@ -1,6 +1,6 @@
 cask "loupe" do
-  version "0.6.0"
-  sha256 "5514fea46087f943486c97787a246622819d4a868069390ed07eb6a4439dc671"
+  version "0.7.0"
+  sha256 "81a0f094986cea7e9c9d0b097be464c60cda5526d38b0e8cba925feb8092fcac"
 
   url "https://github.com/xinding33/loupe/releases/download/v#{version}/Loupe-#{version}.zip"
   name "Loupe"
